@@ -1,16 +1,34 @@
-# last_islam_app
+# 🕌 Islami Flutter App
 
-A new Flutter project.
+A modern Islamic app with a beautiful UI for Quran reading, listening to the radio, tasbeeh, Azkar, and more.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Onboarding | Quran List | Surah Details |
+|-----------|------------|---------------|
+| ![Onboarding](screenshots/onboarding.png) | ![Quran List](screenshots/quran_list.png) | ![Surah Details](screenshots/surah_details.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Radio | Sebha | Hadith |
+|------|-------|--------|
+| ![Radio](screenshots/radio.png) | ![Sebha](screenshots/sebha.png) | ![Hadith](screenshots/hadith.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+✅ Beautiful onboarding screen  
+✅ Quran Sura list with search  
+✅ Recently viewed surahs saved locally  
+✅ Sura details page with verses  
+✅ Digital Tasbeeh with auto-counter  
+✅ Islamic Radio & Reciters tab  
+✅ Morning & Evening Azkar section  
+✅ Hadith viewer from local files  
+✅ Dark theme with gold-accented UI  
+
+---
+
+## 📁 Project Structure
+
