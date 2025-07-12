@@ -37,13 +37,11 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Reads verse content from local `.txt` files
 
 📷 Quran List:
-![Quran List](screenshots/quran_list.png)
+![Quran List] <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/quran_list.png?raw=true" width="270"/>
 
 📷 Surah Details:
-![Surah Details](screenshots/surah_details.png)
-
-📷 Most Recently Read Surahs:
-![Recent Surahs](screenshots/recent_quran.png)
+![Surah Details]<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/surah_details.png?raw=true" width="270"/>
+ 
 
 ---
 
@@ -54,7 +52,7 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Rotating animation on tap for engagement
 
 📷 Screenshot:
-![Sebha](screenshots/sebha.png)
+![Sebha]	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/sebha.png?raw=true" width="270"/>
 
 ---
 
@@ -64,7 +62,7 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Styled cards for stream entries
 
 📷 Screenshot:
-![Radio](screenshots/radio.png)
+![Radio] <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/radio.png?raw=true" width="270"/>
 
 ---
 
@@ -75,7 +73,7 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Scrollable reading view
 
 📷 Screenshot:
-![Hadith](screenshots/hadith.png)
+![Hadith]<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/hadith.png?raw=true" width="270"/>
 
 ---
 
@@ -85,7 +83,4 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Beautifully designed Morning and Evening Azkar cards
 
 📷 Time View:
-![Prayer Times](screenshots/time.png)
- 
- 
-make photo like this
+![Prayer Times]	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/time.png?raw=true" width="270"/>
