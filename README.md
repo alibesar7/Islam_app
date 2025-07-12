@@ -19,7 +19,7 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 - Shows features like Quran, Radio, Azkar, and more
 
 📷 Screenshot:
-![Onboarding]([screenshots/onboarding.png](https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding1.png))
+![Onboarding]([assets/screenshots/onboarding1.png))
 
 ---
 
