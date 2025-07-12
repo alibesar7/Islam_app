@@ -7,8 +7,18 @@ Crafted with 💙 using **Flutter**, **Provider**, and **SharedPreferences**.
 
 ## 🔍 Overview
 
-Islami App is a modern, user-friendly Islamic app developed to make spiritual resources accessible with an elegant UI and smooth experience.
+**Islami App** is a modern, user-friendly Islamic app developed to make spiritual resources easily accessible in a beautiful and intuitive way.
 
+It allows users to:
+
+- 📖 Explore the entire Quran with 114 surahs in Arabic and English
+- 🔍 Instantly **search** surahs by name
+- 🕋 Quickly revisit **recently read surahs**, stored locally using `SharedPreferences`
+- ✨ Use a **digital tasbeeh counter** with interactive animations
+- 🎧 Listen to **Islamic radio** with a clean UI
+- 📜 Read **Hadiths** from local `.txt` files
+- 🌅 Perform **Morning and Evening Azkar**
+- 🕛 View static **Prayer Times** in an elegant layout
 ---
 
 ## 🌟 Key Features (with Screenshots)
