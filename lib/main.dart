@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:islam/porvider/mostrecentporivder.dart';
 import 'package:islam/ui/screens/HomeScreen.dart';
 import 'package:islam/ui/screens/SplashScreen.dart';
@@ -18,18 +19,24 @@ class Myapp extends StatelessWidget {
   Widget build(BuildContext context) {
     final w = MediaQuery.of(context).size.width;
     final h = MediaQuery.of(context).size.height;
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      initialRoute: Homescreen.routescreen,
-      routes: {
-        Splashscreen.routescreen:(context)=> Splashscreen(),
-        Homescreen.routescreen:(context)=>Homescreen(),
-        IntroScreen.routescreen:(context)=>IntroScreen(),
-        SuraDetails.Suradetails:(context)=>SuraDetails(),
-      },
-      theme: Apptheme.themeapp,
-      themeMode: ThemeMode.dark ,
+    return ScreenUtilInit(
+      minTextAdapt: true,
+      splitScreenMode: true,
+      builder: (context,child){
+        return MaterialApp(
+          debugShowCheckedModeBanner: false,
+          initialRoute: Splashscreen.routescreen,
+          routes: {
+            Splashscreen.routescreen:(context)=> Splashscreen(),
+            Homescreen.routescreen:(context)=>Homescreen(),
+            IntroScreen.routescreen:(context)=>IntroScreen(),
+            SuraDetails.Suradetails:(context)=>SuraDetails(),
+          },
+          theme: Apptheme.themeapp,
+          themeMode: ThemeMode.dark ,
 
+        );
+      },
     );
   }
 }

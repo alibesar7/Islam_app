@@ -13,7 +13,7 @@ class _SplashscreenState extends State<Splashscreen> {
   @override
   void initState() {
     super.initState();
-    Timer(Duration(seconds: 10), () {
+    Timer(Duration(seconds: 20), () {
       Navigator.pushReplacementNamed(context, 'intro_screen',);
     });
   }

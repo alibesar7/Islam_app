@@ -14,13 +14,13 @@ class IntroScreen extends StatelessWidget {
   final List<OnboeardingModel> onboardingPages = [
     OnboeardingModel(
       fimage: "assets/images/intro/Group 32.png",
-      simage: "assets/images/intro/11.png",
+      simage: "assets/images/intro/time.png",
       title: "Welcome To Islmi App",
       subtitle: "",
     ),
     OnboeardingModel(
       fimage: "assets/images/intro/Group 32.png",
-      simage: "assets/images/intro/Frame 3.png",
+      simage: "assets/images/intro/Frame onboarding2.png",
       title: "Welcome To Islami",
       subtitle: "We Are Very Excited To Have You In Our\nCommunity",
     ),

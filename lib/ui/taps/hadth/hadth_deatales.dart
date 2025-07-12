@@ -46,7 +46,7 @@ class _HadthDeatalesState extends State<HadthDeatales> {
                 children: [
                   Padding(
                     padding:   EdgeInsets.only(left: w*0.02 ),
-                    child: Image.asset("assets/images/taps/hadth/Cornerr 2.png",height: h*0.08,width: w*.13,),
+                    child: Image.asset("assets/images/taps/hadth/Cornerr onboarding1.png",height: h*0.08,width: w*.13,),
                   ),
                   Text(hadth?.titel??"",style: AppStyle.bold16black ,),
                   Padding(

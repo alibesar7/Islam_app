@@ -38,7 +38,7 @@ class _RadiooState extends State<Radioo> {
                 width: double.infinity,
 
                   child: Image.asset(
-                    "assets/images/taps/Radio/Mosque-02 2.png",
+                    "assets/images/taps/Radio/Mosque-02 onboarding1.png",
                     fit: BoxFit.fill,
                     width: double.infinity,
                   ),

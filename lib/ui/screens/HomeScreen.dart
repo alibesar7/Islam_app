@@ -5,8 +5,8 @@ import '../../utils/Appcolors.dart';
 import '../taps/hadth/hadth_tap.dart';
 import '../taps/quran/quran_tap.dart';
 import '../taps/radio/radio_tap.dart';
-import '../taps/sebha_tap.dart';
-import '../taps/time_tap.dart';
+import '../taps/sebha/sebha_tap.dart';
+import '../taps/time/time_tap.dart';
 
 class Homescreen extends StatefulWidget {
   const Homescreen({super.key});
@@ -108,9 +108,10 @@ class _HomescreenState extends State<Homescreen> {
          ),
              child:  Padding(
                padding: const EdgeInsets.symmetric(horizontal: 13,vertical: 2),
-                    child: ImageIcon(
-                     AssetImage(image),
-
+                    child:index==5? ImageIcon(
+                    AssetImage(image)
+                    ): Icon(
+                      ( Icons.alarm_sharp),
                     ),
                         ) ,
 
