@@ -20,11 +20,7 @@ Islami App is a modern, user-friendly Islamic app developed to make spiritual re
 
 📷 Screenshot:
 ![Onboarding] 
-	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding1.png?raw=true" width="270"/>
- 	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding2.png?raw=true" width="270"/>
-  	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding3.png?raw=true" width="270"/>
-   	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding4.png?raw=true" width="270"/>
-    	<img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding5.png?raw=true" width="270"/>
+	<div align="center"> <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding1.png?raw=true" width="220" style="margin:10px"/> <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding2.png?raw=true" width="220" style="margin:10px"/> <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding3.png?raw=true" width="220" style="margin:10px"/> <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding4.png?raw=true" width="220" style="margin:10px"/> <img src="https://github.com/alibesar7/Islam_app/blob/main/assets/screenshots/onboarding5.png?raw=true" width="220" style="margin:10px"/> </div>
 
 ---
 
